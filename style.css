@@ -20,7 +20,32 @@ h1{
 
 }
 .rifu{
-    width: 820px;
+    width: 480px;
     float: right;
 
+}
+.button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+}
+h2{
+    font-size: 50px;
+    background-color: brown;
+}
+.KK{
+    width: 400px;
+    float: right;
+    margin-right: 5%;
+}
+.BJ{
+    width: 480px;
+    float: left;
+    margin-left: 20%;
 }
